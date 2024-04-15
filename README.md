@@ -31,9 +31,6 @@ In the project directory, you can run the following scripts:
 
 - `npm start`: Runs the app in development mode.
 - `npm run build`: Builds the app for production to the `build` folder.
-- `npm test`: Launches the test runner in interactive watch mode.
-- `npm run lint`: Lints TypeScript files using ESLint.
-- `npm run format`: Formats TypeScript files using Prettier.
 
 ## Project Structure
 
